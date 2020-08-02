@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! I'm Germán Oviedo, a Data Scientist based in Santiago, Chile
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I love to tackle new problems and improve old solutions, specially in the realm of Software Engineering and Data & Analytics. My dream is to continue learning about Data Science and to find new areas where to apply said knowledge.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently I'm working as a Data Scientist@Bci. You can read more about my work and educational experience at my [LinkedIn Profile][linkedin-profile].
 
+This blog is just a way for me to communicate my thoughts and to showcase some interesting projects along the way.
 
-[jekyll-organization]: https://github.com/jekyll
+[linkedin-profile]: https://www.linkedin.com/in/goviedb/
